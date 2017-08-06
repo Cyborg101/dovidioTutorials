@@ -10,7 +10,7 @@ import android.widget.Toast;
 /* Author: Umberto D'Ovidio
  * Website: http://dovid.io
  * Email: umberto.dovidio@gmail.com
- * Tutorial page: http://dovid.io/guida-intent-android
+ * Tutorial page: http://dovid.io/guida-intent-android.html
  */
 public class MainActivity extends AppCompatActivity {
 
