@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BasicUnitTesting</string>
+    <string name="enter_a_number">Enter a number</string>
+    <string name="compute_factorial">Compute factorial</string>
+    <string name="enter_a_number_and_press_button">Enter a number and press the button to compute its factorial</string>
+    <string name="number_field_empty">Number field is empty</string>
+    <string name="must_enter_number">You must enter a number</string>
+    <string name="not_valid_number">Not a valid number</string>
+    <string name="provide_valid_number">You must provide a valid number</string>
+    <string name="factorial_of">Factorial of</string>
+    <string name="is">is</string>
+    <string name="number_too_large">Number is too large</string>
+    <string name="ok" translatable="false">ok</string>
+    <string name="enter_number_less_20"><![CDATA[Enter a number < than 21]]></string>
+</resources>

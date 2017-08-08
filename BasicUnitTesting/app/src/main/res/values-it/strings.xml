@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BasicUnitTesting</string>
+    <string name="compute_factorial">Calcola il fattoriale</string>
+    <string name="enter_a_number">Inserisci un numero</string>
+    <string name="enter_a_number_and_press_button">Inserisci un numero e premi il pulsante per calcolarne il fattoriale</string>
+    <string name="enter_number_less_20"><![CDATA[Inserisci un numero < di 21]]></string>
+    <string name="factorial_of">Fattoriale di</string>
+    <string name="is">è</string>
+    <string name="must_enter_number">Devi immetere un numero</string>
+    <string name="not_valid_number">Numero non valido</string>
+    <string name="number_field_empty">Il campo numero è vuoto</string>
+    <string name="number_too_large">Numero troppo grande</string>
+    <string name="provide_valid_number">Devi immettere un numero valido</string>
+</resources>
