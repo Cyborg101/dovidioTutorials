@@ -9,7 +9,7 @@ import android.database.sqlite.SQLiteOpenHelper;
  * Date: 30/09/17
  * Email: umberto.dovidio@gmail.com
  * Website: http://dovid.io
- * Tutorial link : http://dovid.io
+ * Tutorial link : http://dovid.io/2017/09/30/gestire-sqlite-android.html
  */
 
 public class DatabaseHelper extends SQLiteOpenHelper {
